@@ -4,7 +4,7 @@ The project aims at sarcasm classification on the twitter data and the reddit co
 
 There have been two datasets used in the project  1) Twitter dataset(Ghosh)  2) Reddit comments dataset (Khodak)
 
-**Folders **
+**Folders**
 1) Twitter_dataset_Ghosh
 	i) Codes - Contains 3 notbook .ipynb files
 	ii)Resources - Contains all the raw and the preprocessed data and the outputs at intermediate states 
@@ -37,6 +37,6 @@ There have been two datasets used in the project  1) Twitter dataset(Ghosh)  2) 
 
 1) The raw data has been preprocessed using the reddit_preprocessing file.
 2) The sentiment.ipynb file is used to generate a sentiment model which is used as a pre trained model in the latter phase of project.
-3) The reddit_dataset.ipynb file 
+3) The reddit_dataset.ipynb file has all the models used for classification in Khodak dataset.
 
 	
