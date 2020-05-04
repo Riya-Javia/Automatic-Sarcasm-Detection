@@ -2,7 +2,9 @@
 Sarcasm Detection in twitter dataset(Ghosh) and reddit comments dataset(Khodak)
 The project aims at sarcasm classification on the twitter data and the reddit comments data. 
 
-There have been two datasets used in the project  1) Twitter dataset(Ghosh)  2) Reddit comments dataset (Khodak)
+There have been two datasets used in the project  
+1) Twitter dataset(Ghosh)  
+2) Reddit comments dataset (Khodak)
 
 **Folders**
 1) Twitter_dataset_Ghosh
